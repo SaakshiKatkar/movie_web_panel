@@ -1,0 +1,14 @@
+.bgimg {
+    background-image: url('./body-bg.gif');
+}
+
+.navbar .navbar-brand {
+    color: white !important;
+    font-weight: 800;
+    font-size: 30px;
+
+}
+.navbar .nav-link {
+    color: white !important;
+
+}
